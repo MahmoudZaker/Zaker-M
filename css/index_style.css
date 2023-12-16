@@ -1,0 +1,28 @@
+h1 {
+    font-size: 100px;
+    font-family: Impact;
+    padding: 100px;
+}
+
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+
+p{
+    font-size: 35px;
+}
+
+
+button:hover{
+    background-color: green;
+}
+
+
+.Quote{
+    text-align: center;
+}
